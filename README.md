@@ -1,1 +1,1 @@
-my first readme learning git
+my first readme learning how to manipulate git
